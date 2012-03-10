@@ -1,0 +1,28 @@
+Partlist
+
+Exported from VUSB Protoboard.sch at 10.03.2012 04:17:46
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant:
+
+Part     Value          Device            Package      Library        Sheet     Reichelt OrderNo.       Price
+
+C1       22p            C-EU025-025X050   C025-025X050 resistor       1         KERKO 22P               0.06EUR
+C2       22p            C-EU025-025X050   C025-025X050 resistor       1         KERKO 22P               0.06EUR
+C3       100n           C-EU025-025X050   C025-025X050 resistor       1         MKS-02 100N             0.14EUR
+C4       100µ           CPOL-EUE2.5-6     E2,5-6       resistor       1         RAD 100/16              0.04EUR
+D1       3V6            ZENER-DIODEZD-7.5 ZDIO-7.5     diode          1         ZF 3,6                  0.05EUR
+D2       3V6            ZENER-DIODEZD-7.5 ZDIO-7.5     diode          1         ZF 3,6                  0.05EUR
+IC2      MEGA8-P        MEGA8-P           DIL28-3      atmel          1         ATMEGA 8-16 DIP         2.15EUR
+JP3                     JP2E              JP2          jumper         1         SL 1X50G 2,54           0.31EUR
+Q1       16,00          CRYSTALHC49S      HC49/S       crystal        1         16,0000-HC49U-S         0.17EUR
+R1       68             R-EU_0207/10      0207/10      resistor       1         1/4W 60                 0.03EUR
+R2       68             R-EU_0207/10      0207/10      resistor       1         1/4W 60                 0.03EUR
+R3       1M             R-EU_0207/10      0207/10      resistor       1         1/4W 1,0M               0.03EUR
+R4       1k5            R-EU_0207/10      0207/10      resistor       1         1/4W 1,5K               0.03EUR
+R5       10k            R-EU_0207/10      0207/10      resistor       1         1/4W 10,0K              0.03EUR
+SV1                     ML6               ML6          con-harting-ml 1         WSL 6G                  0.16EUR
+X1                      PN61729           PN61729      con-berg       1         USB BW                  0.21EUR
+
+Sum                                                                                                     3.55EUR
