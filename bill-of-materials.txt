@@ -16,6 +16,7 @@ D1       3V6            ZENER-DIODEZD-7.5 ZDIO-7.5     diode          1         
 D2       3V6            ZENER-DIODEZD-7.5 ZDIO-7.5     diode          1         ZF 3,6                  0.05EUR
 IC2      MEGA8-P        MEGA8-P           DIL28-3      atmel          1         ATMEGA 8-16 DIP         2.15EUR
 JP3                     JP2E              JP2          jumper         1         SL 1X50G 2,54           0.31EUR
+-	 -		IC Socket 28 Pin  DIL28-3      -	      -		GS 28P			0.33EUR
 Q1       16,00          CRYSTALHC49S      HC49/S       crystal        1         16,0000-HC49U-S         0.17EUR
 R1       68             R-EU_0207/10      0207/10      resistor       1         1/4W 60                 0.03EUR
 R2       68             R-EU_0207/10      0207/10      resistor       1         1/4W 60                 0.03EUR
